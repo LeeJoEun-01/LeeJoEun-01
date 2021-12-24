@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJoEun-01&layout=compact)](https://github.com/LeeJoEun-01/github-readme-stats)
 
-![Python](https://img.shields.io/badge/python-3776AB??style=flat-square&logo=appveyor&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB??style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
