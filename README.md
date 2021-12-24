@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-452170.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-ff8c00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-1e90ff.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
