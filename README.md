@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-452170.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-452170.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a> 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-ff8c00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-1e90ff.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
