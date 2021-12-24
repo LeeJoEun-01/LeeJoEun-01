@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJoEun-01&layout=compact)](https://github.com/LeeJoEun-01/github-readme-stats)
 
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-452170.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-452170.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a> 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-ff8c00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-1e90ff.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-452170.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a> 
