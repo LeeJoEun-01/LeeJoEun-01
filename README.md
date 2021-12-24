@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LeeJoEun-01&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joeun1005)](https://solved.ac/joeun1005/)
-
 ## ⚒SKILLS⚒
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 ![C++](https://img.shields.io/badge/C++-2AA5DC.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
