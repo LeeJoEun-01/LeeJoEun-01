@@ -1,27 +1,43 @@
-### Hi there 👋
+<div align=center>
+  
+## Hi there 👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJoEun-01&count_bg=%23D9D9D9&title_bg=%23608ECD&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)
 
-<!--
-**LeeJoEun-01/LeeJoEun-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/joeun105" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/joeun1005" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
+<a href="https://www.gitbook.com/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=ffffff"/></a>
+  
+## 📖 Studying 📖
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<img src="https://img.shields.io/badge/Java-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> 
 -->
 
-## ⚒SKILLS⚒
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-![C++](https://img.shields.io/badge/C++-2AA5DC.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDC28.svg?style=flat-square&logo=javascript&logoColor=ffffff)
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-783BF9.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-00B1E7?style=flat-square&logo=React&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-F40D12?style=flat-square&logo=Java&logoColor=ffffff)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)  
+
 ![Adobe Illustrator](https://img.shields.io/badge/Adobeillustrator-ff8c00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobephotoshop-1e90ff.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-783BF9.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+  
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=GoogleTagManager&logoColor=ffffff)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FFCD11?style=flat-square&logo=GoogleAnalytics&logoColor=ffffff)
+  
+## ⚒ Tools ⚒
+![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-E37400?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)
+
+<!-- 
+https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC 
+<img src="http://mazandi.herokuapp.com/api?handle={joeun1005}&theme=warm"/>
+-->
+</div>
