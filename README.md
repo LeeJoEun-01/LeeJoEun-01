@@ -1,10 +1,13 @@
 <div align=center>
+<!--
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcom%20Joeun's%20repository%20profile&animation=blinking&fontColor=FAC1E6&fontSize=40&rotate=20" />
+-->
   
 ## Hi there 👋
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJoEun-01&count_bg=%23D9D9D9&title_bg=%23608ECD&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)
 
 <a href="https://www.instagram.com/joeun105" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
-<a href="https://blog.naver.com/joeun1005" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/joeun1005" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-43B02A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
 <a href="https://www.gitbook.com/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=ffffff"/></a>
   
 ## 📖 Studying 📖
@@ -20,7 +23,7 @@
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-00B1E7?style=flat-square&logo=React&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-F40D12?style=flat-square&logo=Java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)  
 
@@ -28,8 +31,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobephotoshop-1e90ff.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-783BF9.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
   
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=GoogleTagManager&logoColor=ffffff)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FFCD11?style=flat-square&logo=GoogleAnalytics&logoColor=ffffff)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-E7F6F5?style=flat-square&logo=GoogleTagManager&logoColor=246FDB)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F9F3E5?style=flat-square&logo=GoogleAnalytics&logoColor=F5C300)
   
 ## ⚒ Tools ⚒
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
