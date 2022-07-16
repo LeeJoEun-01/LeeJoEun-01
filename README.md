@@ -39,9 +39,10 @@
   
 ## ⚒ Tools ⚒
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
+<!--
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=ffffff)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-E37400?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)
-
+-->
 <!-- 
 https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC 
 <img src="http://mazandi.herokuapp.com/api?handle={joeun1005}&theme=warm"/>
