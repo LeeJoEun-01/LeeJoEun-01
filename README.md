@@ -8,7 +8,6 @@
 
 <a href="https://www.instagram.com/joeun105" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/joeun1005" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-43B02A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
-<a href="https://www.gitbook.com/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=ffffff"/></a>
   
 ## 📖 Studying 📖
 
