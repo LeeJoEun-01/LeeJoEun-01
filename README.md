@@ -4,9 +4,9 @@
 -->
   
 ## Hi there 👋
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJoEun-01&count_bg=%23D9D9D9&title_bg=%23608ECD&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true) 
-<a href="https://ninth-sleep-ef8.notion.site/JS-7b5d92f987c94754a13b986d64f6f257"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/></a>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJoEun-01&count_bg=%23D9D9D9&title_bg=%23608ECD&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)
 <!--
+<a href="https://ninth-sleep-ef8.notion.site/JS-7b5d92f987c94754a13b986d64f6f257"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/></a>
 <a href="https://www.instagram.com/joeun105" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/joeun1005" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-43B02A?style=flat-square&logo=Naver&logoColor=ffffff"/></a> -->
   
