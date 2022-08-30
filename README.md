@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcom%20Joeun's%20repository%20profile&animation=blinking&fontColor=FAC1E6&fontSize=40&rotate=20" />
 -->
   
-## Hi there 👋
+## Joeun GitHub👋
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJoEun-01&count_bg=%23D9D9D9&title_bg=%23608ECD&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)
 <!--
 <a href="https://ninth-sleep-ef8.notion.site/JS-7b5d92f987c94754a13b986d64f6f257"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/></a>
