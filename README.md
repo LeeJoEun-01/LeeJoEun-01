@@ -51,7 +51,4 @@ https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC
 <img src="http://mazandi.herokuapp.com/api?handle={joeun1005}&theme=warm"/>
 -->
 
-
-![LeeJoEun-01's github stats](https://github-readme-stats.vercel.app/api?username=LeeJoEun-01&show_icons=true)
-<!--  (출처)https://github.com/anuraghazra/github-readme-stats  -->
 </div>
