@@ -8,12 +8,13 @@
 ![Swift](https://img.shields.io/badge/Swift-F46F27?style=flat-square&logo=Swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-4B3A9F?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0F8AE9?style=flat-square&logo=Swift&logoColor=white)
+
+<!--![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
+-->
 ![Python](https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDC28.svg?style=flat-square&logo=javascript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-00B1E7?style=flat-square&logo=React&logoColor=ffffff)
