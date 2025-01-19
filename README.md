@@ -38,12 +38,12 @@
 
 
 ## History 🏛️
-- (현) YOURSSU iOS 팀 Lead
-- GDSC Soongsil 3기 Web/Mobile 멤버
+- 2024 숭실대학교 동아리 YOURSSU iOS팀 LEAD
+- 2024 GDSC Soongsil 3기 Web/Mobile 멤버
 - 2023 SOPT iOS 파트
 - 2023 SKT 데보션영 2기 테크인플루언서
 - 2023 언타이틀 학술 소모임 웹 프론트 멘토
-
+  
 ## Awards 🏆
 - 2024 벤처스타트업 SW개발인재 매칭 장관상
 - 2024 벤처기업협회 해커톤 우수상
