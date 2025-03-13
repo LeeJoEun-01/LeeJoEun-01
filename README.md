@@ -1,8 +1,10 @@
 <div align=left>
   
 ### Hi!👋 I'm Joeun Lee
-#### 안녕하세요! 기술과 소통으로 가치를 만드는 iOS 개발자 이조은입니다.🍏
+#### 안녕하세요! 기술과 소통으로 가치를 만드는 iOS 개발자 이조은입니다.
 
+## ✍️ Blog
+개발하며 만난 고민과 해결 과정을 담고 있어요. 저의 [티스토리](https://joni-dev.tistory.com/)에 놀러오세요! 🙌🏻 
 
 ## Skill
 ![Swift](https://img.shields.io/badge/Swift-F46F27?style=flat-square&logo=Swift&logoColor=white)
@@ -43,6 +45,7 @@
 - 2023 SOPT iOS 파트
 - 2023 SKT 데보션영 2기 테크인플루언서
 - 2023 언타이틀 학술 소모임 웹 프론트 멘토
+- 2022 비즈스프링 프론트엔드 개발 인턴
   
 ## Awards 🏆
 - 2024 벤처스타트업 SW개발인재 매칭 장관상
