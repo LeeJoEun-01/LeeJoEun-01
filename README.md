@@ -3,10 +3,10 @@
 ### Hi!👋 I'm Joeun Lee
 #### 안녕하세요! 기술과 소통으로 가치를 만드는 iOS 개발자 이조은입니다.
 
-## ✍️ Blog
+### Blog ✍️
 개발하며 만난 고민과 해결 과정을 담고 있어요. 저의 [티스토리](https://joni-dev.tistory.com/)에 놀러오세요! 🙌🏻 
 
-## Skill
+## Skill 🛠️
 ![Swift](https://img.shields.io/badge/Swift-F46F27?style=flat-square&logo=Swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-4B3A9F?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0F8AE9?style=flat-square&logo=Swift&logoColor=white)
