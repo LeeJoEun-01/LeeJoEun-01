@@ -37,9 +37,13 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-783BF9.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
 
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joeun1005)](https://solved.ac/joeun1005/)
-
+## Projects 📂
+- [[2024.12 ~ 2025.03] 교내 학생들을 위한 성적표 간편 확인 앱, 숨쉴때 유세인트🏫](https://github.com/yourssu/Soomsil-USaint-iOS)
+- [[2024.01 ~ 2024.05 ] 인터랙티브 미디어아트, 르상티망📺](https://github.com/god-fun-re-fun/Ressentiment-iOS)
+- [[2023.12 ~ 2024.04] 가족과 함께 만들어 나가는 오늘의 운동 습관, 모티부👟](https://github.com/Team-Motivoo/Motivoo-iOS)
+- [[2022.10 ~ 2024.02] 유어슈 동아리 디자인 시스템, YDS🎨](https://github.com/yourssu/YDS-iOS)
+- [[2023.08 ~ 2023.11] 클라이밍 기록 앱, 클디(CLD)🧗](https://github.com/ssu-it-project/cl-d-iOS)
+- [[2023.04 ~ 2023.08] IT 직종 취준생들을 위한 모의면접 서비스, ITerview🎙️](https://github.com/BLACKPINK-SLJY)
 
 ## History 🏛️
 - 2024 숭실대학교 동아리 YOURSSU iOS팀 LEAD
@@ -57,13 +61,7 @@
 - 2021 SW인재페스티벌 우수상
 - 2021 소프트웨어학부 소프트웨어 공모전 총장상
 
-## Projects 📂
-- [[2024.12 ~ 2025.03] 교내 학생들을 위한 성적표 간편 확인 앱, 숨쉴때 유세인트🏫](https://github.com/yourssu/Soomsil-USaint-iOS)
-- [[2024.01 ~ 2024.05 ] 인터랙티브 미디어아트, 르상티망📺](https://github.com/god-fun-re-fun/Ressentiment-iOS)
-- [[2023.12 ~ 2024.04] 가족과 함께 만들어 나가는 오늘의 운동 습관, 모티부👟](https://github.com/Team-Motivoo/Motivoo-iOS)
-- [[2022.10 ~ 2024.02] 유어슈 동아리 디자인 시스템, YDS🎨](https://github.com/yourssu/YDS-iOS)
-- [[2023.08 ~ 2023.11] 클라이밍 기록 앱, 클디(CLD)🧗](https://github.com/ssu-it-project/cl-d-iOS)
-- [[2023.04 ~ 2023.08] IT 직종 취준생들을 위한 모의면접 서비스, ITerview🎙️](https://github.com/BLACKPINK-SLJY)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joeun1005)](https://solved.ac/joeun1005/)
 <!--
 ## More About Me 👀
 <a href="https://joni-dev.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=000000"/></a>
