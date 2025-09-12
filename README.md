@@ -6,21 +6,30 @@
 ### Blog ✍️
 개발하며 만난 고민과 해결 과정을 담고 있어요. 저의 [티스토리](https://joni-dev.tistory.com/)에 놀러오세요! 🙌🏻 
 
-## Skill 🛠️
-![Swift](https://img.shields.io/badge/Swift-F46F27?style=flat-square&logo=Swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-4B3A9F?style=flat-square&logo=Swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0F8AE9?style=flat-square&logo=Swift&logoColor=white)
+## Currently Working On 🔄
+- [2025.07~] 연합 IT 동아리, Nexters 27기 iOS 파트
+  - [뉴스레터 큐레이션 앱 서비스, 쏙📰](https://github.com/Nexters/NewsLetter-iOS)
+
+- [2025.07~] 우리 FIS 아카데미 - 클라우드 엔지니어링
+  - [미니 프로젝트 모음집🗂️](https://github.com/LeeJoEun-01/FISA_mini_projects)
+  - [1차 기술세미나, 금융권 3-Tier 아키텍처에서 Redis를 활용한 고트래픽 대응 방안🦞](https://github.com/FISA-TechSeminar)
+
+## Tech Skills 🛠️
+|Category| Stack |
+| ------- | ---- |
+| OS | ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=apple&logoColor=ffffff) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat-square&logo=windows&logoColor=ffffff)|
+| Languages | ![Swift](https://img.shields.io/badge/Swift-F46F27?style=flat-square&logo=Swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFDC28.svg?style=flat-square&logo=javascript&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-228B22?style=flat-square&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)|
+| Client | ![UIKit](https://img.shields.io/badge/UIKit-4B3A9F?style=flat-square&logo=Swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0F8AE9?style=flat-square&logo=Swift&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=ffffff) |
+| Backend | ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=ffffff) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=ffffff) ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=ffffff)|
+| Cloud · Infra	| ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=ffffff) ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat-square&logo=vmware&logoColor=ffffff)|
+| Dev Tools | ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=flat-square&logo=xcode&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=ffffff) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=ffffff)|
+| Tools | ![Figma](https://img.shields.io/badge/Figma-F15BB5.svg?style=flat-square&logo=figma&logoColor=ffffff) ![Slack](https://img.shields.io/badge/Slack-5E0E5E.svg?style=flat-square&logo=slack&logoColor=ffffff) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=ffffff) |
+
 
 <!--![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
 -->
-![Python](https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDC28.svg?style=flat-square&logo=javascript&logoColor=ffffff)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-00B1E7?style=flat-square&logo=React&logoColor=ffffff)
-
 <!--
 #### Tools
 ![VisualStudiocode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
@@ -37,16 +46,6 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-783BF9.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
 
 -->
-<br>
-
-## Currently Working On 🔄
-- [2025.07~] 연합 IT 동아리, Nexters 27기 iOS 파트
-  - [뉴스레터 큐레이션 앱 서비스, 쏙📰](https://github.com/Nexters/NewsLetter-iOS)
-
-- [2025.07~] 우리 FIS 아카데미 - 클라우드 엔지니어링
-  - [미니 프로젝트 모음집🗂️](https://github.com/LeeJoEun-01/FISA_mini_projects)
-  - [1차 기술세미나, 금융권 3-Tier 아키텍처에서 Redis를 활용한 고트래픽 대응 방안🦞](https://github.com/FISA-TechSeminar)
-
 
 ## Projects 📂
 - [[2024.12 ~ 2025.03] 교내 학생들을 위한 성적표 간편 확인 앱, 숨쉴때 유세인트🏫](https://github.com/yourssu/Soomsil-USaint-iOS)
