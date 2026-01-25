@@ -10,10 +10,6 @@
 - [2025.07~] 연합 IT 동아리, Nexters 27기 iOS 파트
   - [뉴스레터 큐레이션 앱 서비스, 쏙📰](https://github.com/Nexters/NewsLetter-iOS)
 
-- [2025.07~] 우리 FIS 아카데미 - 클라우드 엔지니어링
-  - [미니 프로젝트 모음집🗂️](https://github.com/LeeJoEun-01/FISA_mini_projects)
-  - [1차 기술세미나, 금융권 3-Tier 아키텍처에서 Redis를 활용한 고트래픽 대응 방안🦞](https://github.com/FISA-TechSeminar)
-
 ## Tech Skills 🛠️
 |Category| Stack |
 | ------- | ---- |
@@ -46,6 +42,12 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-783BF9.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
 
 -->
+  
+## Edu 📚
+- [2025.07~ 2025.12] 우리 FIS 아카데미 - 클라우드 엔지니어링
+  - [미니 프로젝트 모음집🗂️](https://github.com/LeeJoEun-01/FISA_mini_projects)
+  - [1차 기술세미나, 금융권 3-Tier 아키텍처에서 Redis를 활용한 고트래픽 대응 방안🦞](https://github.com/FISA-TechSeminar)
+  - [최종 프로젝트, 최애 캐릭터를 자산으로 만드는 문화 STO 플랫폼 💵](https://github.com/Woori-FISA-Go)
 
 ## Projects 📂
 - [[2024.12 ~ 2025.03] 교내 학생들을 위한 성적표 간편 확인 앱, 숨쉴때 유세인트🏫](https://github.com/yourssu/Soomsil-USaint-iOS)
@@ -53,7 +55,7 @@
 - [[2023.12 ~ 2024.04] 가족과 함께 만들어 나가는 오늘의 운동 습관, 모티부👟](https://github.com/Team-Motivoo/Motivoo-iOS)
 - [[2022.10 ~ 2024.02] 유어슈 동아리 디자인 시스템, YDS🎨](https://github.com/yourssu/YDS-iOS)
 - [[2023.08 ~ 2023.11] 클라이밍 기록 앱, 클디(CLD)🧗](https://github.com/ssu-it-project/cl-d-iOS)
-- [[2023.04 ~ 2023.08] IT 직종 취준생들을 위한 모의면접 서비스, ITerview🎙️](https://github.com/BLACKPINK-SLJY)
+- [[2023.04 ~ 2023.08] IT 취준생들을 위한 모의면접 서비스, ITerview🎙️](https://github.com/BLACKPINK-SLJY)
 
 ## History 🏛️
 - 2024 숭실대학교 동아리 YOURSSU iOS팀 LEAD
@@ -64,6 +66,7 @@
 - 2022 비즈스프링 프론트엔드 개발 인턴
   
 ## Awards 🏆
+- 2025 우리 FIS 아카데미 최종 프로젝트 우수상
 - 2025 우리 FIS 아카데미 1차 기술세미나 우수상
 - 2024 벤처스타트업 SW개발인재 매칭 장관상
 - 2024 벤처기업협회 해커톤 우수상
